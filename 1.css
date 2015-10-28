@@ -1,0 +1,80 @@
+body{
+	background-color: white;
+	max-width: 100%;
+	width: 100%;
+	font-family: arial sans-serif;
+	margin: auto;
+	text-align: center;
+}
+#image{
+	padding: 8em;
+}
+
+#menu{
+	
+	padding: -25px;
+	width: 960px;
+	max-width: 100%;
+	min-width: 100%;
+	text-align: center;
+	margin: auto;
+
+}
+
+#container{
+	
+	width: 980px;
+	max-width: 100%;
+	min-width: 50%;
+	border: 1px solid black;
+	text-align: justify;
+	
+
+}
+
+header{
+	background-color: black;
+	height: 100px;
+	width: auto;
+	clear: both;
+
+}
+
+#search{
+	position: relative;
+	left: 25%;
+	line-height: 25px;
+	}
+
+header img{
+	float:left;
+	position: relative;
+	left: 200px;
+	text-align: center;
+}
+#sec{
+		
+		max-width: 100%;
+		border: 1px solid red;
+		text-align: center;
+		
+	
+}
+
+#article article{
+	border: 1px dashed yellow;
+	width: 320px;
+	height: 300px;
+	float: left;
+	margin: 15px 0px;
+	padding: 2px 0px;
+}
+
+footer{
+	width: 100%;
+	max-width: 100%;
+	min-width: 600px;
+	height: 150px;
+	background-color: black;
+	clear: both;
+}
